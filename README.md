@@ -1,3 +1,3 @@
 # Category_Prediction_With_SVM
-SVM Modeli İle Kategori Tahmini
+SVM(Support Vector Machine) Modeli İle Kategori Tahmini
 
