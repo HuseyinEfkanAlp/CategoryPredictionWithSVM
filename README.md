@@ -11,7 +11,7 @@ Ve bu tahminler sonucunda pazarlama politikasında değişikliğe gidebilir ve b
 
 ## Veri Setimizi Tanıyalım
 * Bu veri setinde 19,945 adet müşterinin alışveriş geçmişleri 12 veri seti değişkeni ile tanımlanmıştır.
-* 
+
 ![](https://github.com/HuseyinEfkanAlp/Category_Prediction_With_SVM/blob/main/Images/shape.png)
 ### Veri Setimizdeki Değişkenlerin Veri Tipleri
 * Bu veriden yola çıkarak date olarak adlandırılan, tarih içeren veriler object olarak yer alıyor. Bu verilerin tipini Datetime olarak değiştirmeliyiz.
